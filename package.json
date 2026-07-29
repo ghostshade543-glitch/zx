@@ -1,0 +1,12 @@
+{
+  "name": "❈ 𝙎𝙚𝙡𝙛 𝙋𝙝𝙖𝙣𝙩𝙤𝙢『𖣘』",
+  "version": "1.0.0",
+  "description": "Telegram Bot",
+  "main": "bot.py",
+  "scripts": {
+    "start": "python bot.py"
+  },
+  "engines": {
+    "python": "3.10"
+  }
+}
